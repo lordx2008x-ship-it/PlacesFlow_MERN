@@ -1,9 +1,9 @@
 {
     "env":{
-        "DB_USER":"lordx2008x_db_user",
-        "DB_PASSWORD":"N4dhJkqyvpOtPV3k",
+        "DB_USER":"*********_db_user",
+        "DB_PASSWORD":"***********",
         "DB_NAME":"mern",
-        "JWT_KEY":"supersecret_dont_share",
+        "JWT_KEY":"****************",
         "DOMAIN":"http://localhost:5000/"    
     }
 }
